@@ -1,0 +1,22 @@
+h1{ color: red; 
+font-size: 250%;
+font-weight: bold;
+font-style: italic;} 
+
+body {
+	background: yellow;
+	color: green;
+	font-size: 14pt;
+	font-family: 'Lato', sans-serif;
+}
+nav li {display: inline block; 
+border: 2px solid red;
+padding: 10px;
+margin: 5px;
+background: white; }
+
+a { color: blue;
+text decoration: none;
+hover: yellow; }
+
+		table, th, td { border: 1px solid black; border-collapse: collapse }
